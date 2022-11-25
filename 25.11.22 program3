@@ -1,0 +1,6 @@
+lst=[7,2,3,4,8,6,9]
+sum=0
+for i in lst:
+    if i%2==0:
+        sum=sum+i
+print(sum)
