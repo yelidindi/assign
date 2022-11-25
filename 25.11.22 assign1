@@ -1,0 +1,6 @@
+lst=[1,3,6,15,9]
+min=lst[0]
+for i in lst:
+    if i<min:
+        min=i
+    print("minimum value=",min)
